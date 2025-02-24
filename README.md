@@ -4,7 +4,7 @@
 
 ## Exercise 1
 
-Write a procedure to output how many odd and event digit given number have.
+Write a procedure to output how many odd and even digit given number have.
 
     Example:
     Input: "12345"
